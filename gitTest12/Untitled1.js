@@ -5,3 +5,4 @@ function tt ( )
 }
 
 tt ( );
+tt ( );
