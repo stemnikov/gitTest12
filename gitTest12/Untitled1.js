@@ -6,3 +6,5 @@ function tt ( )
 
 tt ( );
 tt ( );
+
+var		pp = 123;
