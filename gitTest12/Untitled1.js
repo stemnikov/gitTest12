@@ -6,3 +6,5 @@ function tt ( )
 
 tt ( );
 tt ( );
+
+tt ( "github.com" );
